@@ -1,5 +1,5 @@
 {
-    "name": "laravel/laravel",
+    "name": "faveo/authentication",
     "type": "project",
     "description": "Laravel Auth",
     "keywords": [
